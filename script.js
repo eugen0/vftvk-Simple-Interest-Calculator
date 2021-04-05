@@ -43,3 +43,4 @@ function rateChange(){
     var rate = document.getElementById("rate").value;
     document.getElementById("ratedisplay").innerHTML = rate + " %";
 }
+}
