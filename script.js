@@ -36,7 +36,6 @@ function compute()
      ".<br>" + "Total amount, interest plus initial principal is " +
       total;
     document.getElementById("message").innerHTML = message;
-    }
 }
   
 //displaying rate value on slider activations
